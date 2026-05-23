@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "Himelaf123.aternos.me",
-    "port": 55999,
+    "ip": "Elysian_SMP.aternos.me",
+    "port": 18528,
     "version": "1.20.1",
     "try-creative": false
   },
